@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "/Users/kavey/Desktop/programming-hero-2022/Programming Hero-Level-2/Practice-Projects/university-management/university-management-auth-service/logs/winston/errors/.080abe8a1176fdd16589125c2c84c5f97d23183b-audit.json",
-    "files": [
-        {
-            "date": 1686583581469,
-            "name": "/Users/kavey/Desktop/programming-hero-2022/Programming Hero-Level-2/Practice-Projects/university-management/university-management-auth-service/logs/winston/errors/UM-2023-12-06-21-error.log",
-            "hash": "7cf920be7a806e44b32433cecf7d099a0c151e363046c97fa740c226f8621b19"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/Users/kavey/Desktop/programming-hero-2022/Programming Hero-Level-2/Practice-Projects/university-management/university-management-auth-service/logs/winston/errors/.080abe8a1176fdd16589125c2c84c5f97d23183b-audit.json",
+  "files": [
+    {
+      "date": 1686583581469,
+      "name": "/Users/kavey/Desktop/programming-hero-2022/Programming Hero-Level-2/Practice-Projects/university-management/university-management-auth-service/logs/winston/errors/UM-2023-12-06-21-error.log",
+      "hash": "7cf920be7a806e44b32433cecf7d099a0c151e363046c97fa740c226f8621b19"
+    }
+  ],
+  "hashType": "sha256"
 }
