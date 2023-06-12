@@ -11,7 +11,8 @@ app.use(cors())
 app.use(express.json())
 //for encoded data
 app.use(express.urlencoded({ extended: true }))
-
+// Get route for the environment variable
+// console.log(app.get('env')) //development
 //Application route
 app.use('/api/vi/users', userRouter)
 //Testing

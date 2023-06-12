@@ -1,0 +1,54 @@
+{
+  message: ' 🛢️ Database connected successfully ! 🔥',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T15:26:23.463Z'
+}
+{
+  message: '🔥 Application listening on port 5007 🔥',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T15:26:23.475Z'
+}
+{
+  message: ' 🛢️ Database connected successfully ! 🔥',
+  level: 'info',
+  label: undefined,
+  timestamp: '2023-06-12T15:28:46.172Z'
+}
+{
+  message: '🔥 Application listening on port 5007 🔥',
+  level: 'info',
+  label: undefined,
+  timestamp: '2023-06-12T15:28:46.177Z'
+}
+{
+  message: ' 🛢️ Database connected successfully ! 🔥',
+  level: 'info',
+  label: undefined,
+  timestamp: '2023-06-12T15:28:56.869Z'
+}
+{
+  message: '🔥 Application listening on port 5007 🔥',
+  level: 'info',
+  label: undefined,
+  timestamp: '2023-06-12T15:28:56.873Z'
+}
+{
+  message: ' 🛢️ Database connected successfully ! 🔥',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T15:29:35.507Z'
+}
+{
+  message: '🔥 Application listening on port 5007 🔥',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-12T15:29:35.515Z'
+}
+Mon Jun 12 2023 21:33:24 [UM] info:  🛢️ Database connected successfully ! 🔥
+Mon Jun 12 2023 21:33:24 [UM] info: 🔥 Application listening on port 5007 🔥
+Mon Jun 12 2023 21:33:33 [UM] info:  🛢️ Database connected successfully ! 🔥
+Mon Jun 12 2023 21:33:33 [UM] info: 🔥 Application listening on port 5007 🔥
+Mon Jun 12 2023 21:34:27 [UM] info:  🛢️ Database connected successfully ! 🔥
+Mon Jun 12 2023 21:34:27 [UM] info: 🔥 Application listening on port 5007 🔥
